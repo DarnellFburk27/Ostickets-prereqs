@@ -28,37 +28,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/rq9s8sX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://imgur.com/UP8ZKT4.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+  
+"The first image shows the successful installation of IIS (Internet Information Services). The second image demonstrates the IIS landing page now being accessible, confirming that the installation was successful and the web server is properly running."
+</p>
+<br />
+
+<p> 
+
+
+
+
+
+<p>
+<img src="https://i.imgur.com/ubTbvlD.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<p>
+<img src="https://i.imgur.com/KKKV2eh.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> 
+"The first image shows the successful installation of MySQL, with the server setup completed. The second image demonstrates configuring the username and password during the server instance setup, ensuring proper authentication for database access."
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/M8QWjGF.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+"This image shows the successful installation of the Microsoft Visual C++ Redistrubutable (x86). The setup was completed without issues, ensuring the necessary runtime components are installed."
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/eLBludr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-
-
-
-
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+"This image shows the successful installation of osTicket, with the config.php file permissions configured correctly. It also shows HeidiSQL with the osTicket database connected, confirming proper database setup."
 </p>
 <br />
